@@ -16,8 +16,8 @@ This list is automatically generated from GitHub repository contributor data.
 
 <!-- BEGIN CONTRIBUTORS -->
 - [@kushagrasinghx](https://github.com/kushagrasinghx)
-- [@Galaxyyss](https://github.com/Galaxyyss)
 - [@Rajivrai07](https://github.com/Rajivrai07)
+- [@Galaxyyss](https://github.com/Galaxyyss)
 - [@NeoTurcios](https://github.com/NeoTurcios)
 - [@KabirSinghBhatia](https://github.com/KabirSinghBhatia)
 - [@MaverickRox](https://github.com/MaverickRox)
@@ -29,9 +29,9 @@ This list is automatically generated from GitHub repository contributor data.
 - [@tadikwa](https://github.com/tadikwa)
 - [@apricotbucket28](https://github.com/apricotbucket28)
 - [@nitinbhat972](https://github.com/nitinbhat972)
-- [@AbhiTheModder](https://github.com/AbhiTheModder)
-- [@AngelCas04](https://github.com/AngelCas04)
 - [@rairulyle](https://github.com/rairulyle)
+- [@AngelCas04](https://github.com/AngelCas04)
+- [@AbhiTheModder](https://github.com/AbhiTheModder)
 - [@aryasarukkai](https://github.com/aryasarukkai)
 - [@Eful97](https://github.com/Eful97)
 - [@chaudharyjatin115](https://github.com/chaudharyjatin115)
